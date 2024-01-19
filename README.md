@@ -15,7 +15,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Overall Precision: 99%
   * Overall Recall Score: 99%
 
-              precision    recall  f1-score   support
+                      precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     18765
            1       0.85      0.91      0.88       619
@@ -24,12 +24,14 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    macro avg       0.92      0.95      0.94     19384
 weighted avg       0.99      0.99      0.99     19384
 
+
+
 * Machine Learning Model 2: Oversampling method
    * Balanced Accuracy: >99% 
    * Precision: 99%
    * Recall Score: 99%
 
-               precision    recall  f1-score   support
+                     precision    recall  f1-score   support
 
            0       0.99      0.99      0.99     75036
            1       0.99      0.99      0.99     75036
@@ -37,6 +39,8 @@ weighted avg       0.99      0.99      0.99     19384
     accuracy                           0.99    150072
    macro avg       0.99      0.99      0.99    150072
 weighted avg       0.99      0.99      0.99    150072
+
+
 
 ## Summary
 
